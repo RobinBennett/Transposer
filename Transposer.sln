@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transposer", "Transposer\Transposer.csproj", "{A464F4E2-C8FC-42AA-ABB8-357BBF9008AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A464F4E2-C8FC-42AA-ABB8-357BBF9008AB}.Debug|x86.ActiveCfg = Debug|x86
+		{A464F4E2-C8FC-42AA-ABB8-357BBF9008AB}.Debug|x86.Build.0 = Debug|x86
+		{A464F4E2-C8FC-42AA-ABB8-357BBF9008AB}.Release|x86.ActiveCfg = Release|x86
+		{A464F4E2-C8FC-42AA-ABB8-357BBF9008AB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
